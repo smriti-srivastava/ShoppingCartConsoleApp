@@ -1,0 +1,7 @@
+c:\users\ssrivastava\source\repos\ShoppingCartConsoleApp\ShoppingCartConsoleApp\obj\Debug\ShoppingCartConsoleApp.csprojAssemblyReference.cache
+c:\users\ssrivastava\source\repos\ShoppingCartConsoleApp\ShoppingCartConsoleApp\obj\Debug\ShoppingCartConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\ssrivastava\source\repos\ShoppingCartConsoleApp\ShoppingCartConsoleApp\bin\Debug\ShoppingCartConsoleApp.exe.config
+c:\users\ssrivastava\source\repos\ShoppingCartConsoleApp\ShoppingCartConsoleApp\bin\Debug\ShoppingCartConsoleApp.exe
+c:\users\ssrivastava\source\repos\ShoppingCartConsoleApp\ShoppingCartConsoleApp\bin\Debug\ShoppingCartConsoleApp.pdb
+c:\users\ssrivastava\source\repos\ShoppingCartConsoleApp\ShoppingCartConsoleApp\obj\Debug\ShoppingCartConsoleApp.exe
+c:\users\ssrivastava\source\repos\ShoppingCartConsoleApp\ShoppingCartConsoleApp\obj\Debug\ShoppingCartConsoleApp.pdb
